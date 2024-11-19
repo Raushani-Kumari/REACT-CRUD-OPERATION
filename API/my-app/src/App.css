@@ -1,0 +1,12 @@
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  flex-direction: column;
+  
+}
+
+.create-form label {
+  font-family: 'sans-serif';
+}
